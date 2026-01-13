@@ -110,12 +110,13 @@ MBA-Business-Analytics-Project/
 ## ▶️ How to Run This Project
 
 1. Clone the repository:
-git clone https://github.com/vivek263kumar/MBA-Business-Analytics-Project
+git clone    https://github.com/vivek263kumar/MBA-Business-Analytics-Project
 
 
 
 ## 👤 Author
 Vivek Kumar | MBA | Business Analytics
+
 🔗 GitHub: https://github.com/vivek263kumar  
 🔗 LinkedIn: www.linkedin.com/in/vivek263kumar
 
