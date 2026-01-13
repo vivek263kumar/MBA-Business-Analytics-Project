@@ -101,12 +101,6 @@ Models were evaluated using:
 
 ---
 
-MBA-Business-Analytics-Project/
-│
-├── credit_card_fraud_detection.ipynb
-└── README.md
-
-
 ## ▶️ How to Run This Project
 
 1. Clone the repository:
